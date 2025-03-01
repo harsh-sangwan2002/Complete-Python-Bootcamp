@@ -1,0 +1,3 @@
+I am text file!
+I am another line.
+I am the third line.
